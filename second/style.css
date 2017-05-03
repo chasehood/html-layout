@@ -1,0 +1,32 @@
+.column1{
+    background-color: #4A90E2;
+    width: 33%;
+    padding-bottom:100vh;
+    float: left;
+}
+
+.column2{
+
+    background-color: #50E3C2;
+    width: 33%;
+    padding-bottom:100vh;
+    float: left;
+}
+
+.column3{
+
+    background-color: #B8E986;
+    padding-bottom:100vh;
+    margin-left: 66%;
+}
+
+.placeHolder{
+    margin-top: -12.6%;
+    margin-left: 66%;
+    width: 24.5%;
+    padding: 4.75%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 173%;
+}
